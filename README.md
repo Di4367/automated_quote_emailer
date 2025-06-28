@@ -40,8 +40,6 @@ Built using **pure Python**, this is a reminder that even simple scripts can spa
 - datetime
 - random
 
----
-
 🔐 Security Note
 
 This script uses a Gmail App Password — make sure you:
