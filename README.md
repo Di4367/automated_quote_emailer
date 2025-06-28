@@ -31,7 +31,7 @@ This Python script:
 🧠 Why I Built This
 
 In the fast-paced world of deadlines and distractions, I wanted to build something small but joyful — a moment of motivation that lands in your inbox without you even asking.  
-Built using **pure Python**, this is a reminder that even simple scripts can spark big smiles. 😊
+Built using **pure Python**, this is a reminder that even simple scripts can spark big smiles. 
 
 🛠️ Tech Used
 
@@ -45,4 +45,4 @@ Built using **pure Python**, this is a reminder that even simple scripts can spa
 This script uses a Gmail App Password — make sure you:
 - Enable 2FA in Gmail
 - Use an app password instead of your regular password
-- Keep `quotes.txt` clean and inspiring 😉
+- Keep `quotes.txt` clean and inspiring 
