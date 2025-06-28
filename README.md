@@ -15,4 +15,9 @@ This Python script:
 - Sends it via email automatically using Gmail's SMTP service
 - Triggered based on day of the week (currently Saturday)
 
+## 🔐 How It Works
 
+- Uses `smtplib` for sending emails
+- Uses Gmail App Password (secure)
+- Quotes stored in plain text, one per line
+- Runs conditionally based on `datetime.weekday()` (5 = Saturday)
